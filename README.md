@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;technologist: &nbsp;Currently working as a Software Engineer(Full stack, web3 and AI).\ 
+&nbsp;&nbsp;&nbsp;technologist: &nbsp;Currently working as a Software Engineer(Full stack, web3 and AI).  
 &nbsp;&nbsp;&nbsp;seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
@@ -24,7 +24,7 @@
 
 <hr/>
 
-
+<details>
   <summary><b>Main tech knowledge</b></summary>
   <br/>
 
@@ -108,7 +108,7 @@
 ![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
 ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
 
-
+</details>
 
 
 
@@ -122,7 +122,7 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
         <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicKraken&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p> -->
-
+  <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <hr/>
 
