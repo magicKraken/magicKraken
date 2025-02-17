@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;technologist: &nbsp;Currently working as a Software Engineer(Full stack, web3 and AI) 
+&nbsp;&nbsp;&nbsp;technologist: &nbsp;Currently working as a Software Engineer(Full stack, web3 and AI).\ 
 &nbsp;&nbsp;&nbsp;seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
@@ -119,8 +119,9 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=magicKraken&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicKraken&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+        <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicKraken&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p> -->
 
 
 <hr/>
