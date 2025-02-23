@@ -93,7 +93,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/magicKraken/magicKraken/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/magicKraken/magicKraken/blob/output/snake.svg" alt="Snake animation" />
 
 
 ###
